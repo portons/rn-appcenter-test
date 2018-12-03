@@ -1,0 +1,9 @@
+git_url "https://bitbucket.org/500tech/apple-certificates.git"
+
+type "development" # The default type, can be: appstore, adhoc, enterprise or development
+
+app_identifier "com.500tech.appcenter"
+
+username "info@500tech.com" # Your Apple email address
+
+git_branch "appcenter"
